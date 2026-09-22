@@ -13,4 +13,5 @@ coverage/
 dist/
 build/
 .DS_Store
-data/
+data/*
+!data/example.json
